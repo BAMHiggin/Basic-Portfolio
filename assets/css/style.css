@@ -110,15 +110,18 @@ hr {
 textarea {
     width: 100%;
     height: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(126, 162, 185);
     
 }
+
 button {
     padding: 10px;  
    width: 15%;
    margin-top: 10px;
    margin-bottom: 15px; 
    background-color: rgb(240,240,201);
-   
 }
 
 /* Here be Portfolio page - specific items */
